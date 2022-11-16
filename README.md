@@ -17,7 +17,7 @@ How to start in UI/UX. This Document for who are interested in UI/UX .
 
 ## How to start with a Tool
 
-### **· Adobe XD Tool**
+### Adobe XD Tool
 
 Arabic tutorial:
 
@@ -47,17 +47,17 @@ English tutorial :
 
 ## Practice on how to use the tool
 
-### **Adobe XD**
+### Adobe XD
 
-        ****[Task-management-app](https://dribbble.com/shots/19665814-Task-management-app)****(Dribbble)
+        [Task-management-app](https://dribbble.com/shots/19665814-Task-management-app)****(Dribbble)
 
-        **[Food App](https://www.behance.net/gallery/145289695/Food-App-Design/modules/820794049)**(Behance)
+        [Food App](https://www.behance.net/gallery/145289695/Food-App-Design/modules/820794049)**(Behance)
 
-        ****[Fashion E-Commerce App](https://www.behance.net/gallery/151433403/Fashion-E-Commerce-App?tracking_source=search_projects%7CFashion+Mobile)(**Behance)
+        [Fashion E-Commerce App](https://www.behance.net/gallery/151433403/Fashion-E-Commerce-App?tracking_source=search_projects%7CFashion+Mobile)(**Behance)
 
 ### Figma
 
-        ****[Accounting Dashboard Design](https://dribbble.com/shots/18968094-Accounting-Dashboard-Design)**(Dribbble)
+        [Accounting Dashboard Design](https://dribbble.com/shots/18968094-Accounting-Dashboard-Design)**(Dribbble)
 
         [L](https://dribbble.com/shots/17815412-Landify-home-page)anding Home page(Dribbble)
 
@@ -80,7 +80,7 @@ English tutorial :
     - [How To Use Typography In UI Design](https://careerfoundry.com/en/blog/ui-design/typography-ui-design/)
     - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
 - *Grid System*
-    - ****Articles
+    - Articles
         
         •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-design/%23:~:text=Column%20grids%20can%20have%20as,%2C%20nine%2C%20or%2012%20columns)
         
@@ -88,14 +88,14 @@ English tutorial :
         
     - Videos
         - Arabic :
-            - ****[8pt grid & spacing in UI Design](https://youtu.be/ctXmOtBNwV8)
+            - [8pt grid & spacing in UI Design](https://youtu.be/ctXmOtBNwV8)
         - English
-            - ****[4pt grid system](https://youtu.be/-H7NsvZtU2Q)
+            - [4pt grid system](https://youtu.be/-H7NsvZtU2Q)
             - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
-            - ****[8pt grid system](https://youtu.be/ak_zNvESZL8)
+            - [8pt grid system](https://youtu.be/ak_zNvESZL8)
             - [Grid Systems in Web & UI Design](https://youtu.be/n_V_aLqYPI0)
     
-    ### **Upload project**
+    ### Upload project
     
     - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=5yL-_sYKCHU)
     
@@ -108,7 +108,7 @@ English tutorial :
     - [Process of UX](https://xd.adobe.com/ideas/guides/ux-design-process-steps/)
     - [Process of UX (Video)](https://www.youtube.com/embed/Um3BhY0oS2c?autoplay=1&controls=1&showinfo=0&rel=0)
     
-    ### **certificate**
+    ### certificate
     
     - Arabic
         - [UI/UX Design](https://www.edraak.org/en/programs/specialization/uiux-v1/)(Edraak)
@@ -133,12 +133,12 @@ English tutorial :
     - [How To Make Your First Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
     - [How To Create Your First Wireframe (Video Guide)](https://www.youtube.com/watch?v=KdfO_e0yK-g)
     
-    ### **Digital Prototype**
+    ### Digital Prototype
     
     - [The ultimate guide to prototyping](https://www.justinmind.com/prototyping?ref=uxtools-challenges)
     - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
     
-    ### **Resources you will need it**
+    ### Resources you will need it
     
     - *Images*
         - [Unsplash](https://unsplash.com/)

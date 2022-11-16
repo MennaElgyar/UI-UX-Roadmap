@@ -91,9 +91,7 @@ English tutorial :
             - ****[8pt grid & spacing in UI Design](https://youtu.be/ctXmOtBNwV8)
         - English
             - ****[4pt grid system](https://youtu.be/-H7NsvZtU2Q)
-            
-            •  [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
-            
+            - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
             - ****[8pt grid system](https://youtu.be/ak_zNvESZL8)
             - [Grid Systems in Web & UI Design](https://youtu.be/n_V_aLqYPI0)
     

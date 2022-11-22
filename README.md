@@ -56,20 +56,14 @@ English tutorial :
 - [https://learnux.io/course/figma](https://learnux.io/course/figma)
 - [https://youtu.be/kbZejnPXyLM](https://youtu.be/kbZejnPXyLM)
 
-## Practice on how to use the tool
+## Practice on how to use the tool(use any tool)
 
-### Adobe XD
 - [Task-management-app (Dribbble)](https://dribbble.com/shots/19665814-Task-management-app)
 - [Food App (Behance)](https://www.behance.net/gallery/145289695/Food-App-Design/modules/820794049)
 - [Fashion E-Commerce App (Behance)](https://www.behance.net/gallery/151433403/Fashion-E-Commerce-App?tracking_source=search_projects%7CFashion+Mobile)
-
+- [Accounting Dashboard Design (Dribbble)](https://dribbble.com/shots/18968094-Accounting-Dashboard-Design)
+- [Landing Home page (Dribbble)](https://dribbble.com/shots/17815412-Landify-home-page)
        
-
-### Figma
-
-        [Accounting Dashboard Design](https://dribbble.com/shots/18968094-Accounting-Dashboard-Design)**(Dribbble)
-
-        [L](https://dribbble.com/shots/17815412-Landify-home-page)anding Home page(Dribbble)
 
 ## **UI Design principles.**
 

@@ -63,7 +63,7 @@ English tutorial :
 
 ## **UI Design principles.**
 
-- '59C1BD'*principles of visual-design*
+- `59C1BD`*principles of visual-design*
     - [The Basic Principles of User Interface Design](https://www.uxpin.com/studio/blog/ui-design-principles/)
     - [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
     - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)

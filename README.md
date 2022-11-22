@@ -59,12 +59,11 @@ English tutorial :
 ## Practice on how to use the tool
 
 ### Adobe XD
+- [Task-management-app (Dribbble)](https://dribbble.com/shots/19665814-Task-management-app)
+- [Food App (Behance)](https://www.behance.net/gallery/145289695/Food-App-Design/modules/820794049)
+- [Fashion E-Commerce App (Behance)](https://www.behance.net/gallery/151433403/Fashion-E-Commerce-App?tracking_source=search_projects%7CFashion+Mobile)
 
-        [Task-management-app](https://dribbble.com/shots/19665814-Task-management-app)****(Dribbble)
-
-        [Food App](https://www.behance.net/gallery/145289695/Food-App-Design/modules/820794049)**(Behance)
-
-        [Fashion E-Commerce App](https://www.behance.net/gallery/151433403/Fashion-E-Commerce-App?tracking_source=search_projects%7CFashion+Mobile)(**Behance)
+       
 
 ### Figma
 

@@ -1,8 +1,17 @@
 ![UI/UX](https://user-images.githubusercontent.com/108477138/203252735-c184bac8-4638-431b-bc32-a0525a4bba9a.png)
+This repository provide a free courses and tutorials to learn the field of UI/UX . I provide some of the best free resources and tutorials in English and Arabic.
 # UI-UX-Roadmap
 How to start in UI/UX. This Document for who are interested in UI/UX .
 
-## ****what is UI/UX mean?****
+## ****What is UI/UX ?****
+User interface design is a purely digital practice. It considers all the visual, interactive elements of a product interface—including buttons, icons, spacing, typography, color schemes, and responsive design and the goal of UI design is to visually guide the user through a product’s interface. It’s all about creating an intuitive experience that doesn’t require the user to think too much.
+User experience design is the process of developing and improving the quality of interaction and thinks about how the experience makes the user feel, and how easy it is for the user to accomplish their desired tasks.
+## ****Why is UX UI so important ?****
+Our experience shows that to win in this space, well-thought UX/UI design process is of crucial importance because it facilitates the workflows of different user personas, maximizes customer lifecycle value, creates meaningful user experience, adds up to the brand's image and stays relevant to real users over time.
+## ****What is the goal with UI and UX ?****
+UI/UX designer focused on the extensive understanding of user values, needs, and limitations. The design of your digital product should be clear, intuitive, and offer impressive usability to influences end-users to enjoy it.
+
+## ****Difference Between UI & UX.****
 
 - Videos
 

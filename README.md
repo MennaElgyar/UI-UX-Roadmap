@@ -14,16 +14,18 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 ## ****Difference Between UI & UX.****
 
-- Videos
-
-  Arabic :(https://www.youtube.com/watch?v=KaIzzUs2BkI) 
-
-  English :
-- (https://www.youtube.com/watch?v=RtPnVtXw6HU)
-
 - Articles
 
- Arabic tutorial:
+  Arabic : (https://www.alrab7on.com/ui-ux-design-and-the-difference)
+
+  English : (https://manvisinghwal.medium.com/whats-the-difference-%20between-ui-ux-design-aeddfdbe3206)
+- Videos
+
+  Arabic : (https://www.youtube.com/watch?v=KaIzzUs2BkI) 
+
+  English : (https://www.youtube.com/watch?v=RtPnVtXw6HU)
+
+
 
 - [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
 

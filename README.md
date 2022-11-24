@@ -40,8 +40,9 @@ OR :
 
 English tutorial :
 
-- [https://youtu.be/WEljsc2jorI](https://youtu.be/WEljsc2jorI)
 - [https://learnux.io/course/adobe-xd](https://learnux.io/course/adobe-xd)
+- [https://youtu.be/WEljsc2jorI](https://youtu.be/WEljsc2jorI)
+
 
 ### Figma Tool
 

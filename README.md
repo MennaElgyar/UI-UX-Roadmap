@@ -16,12 +16,11 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 - Videos
 
-  Arabic tutorial:
+  Arabic :
+- [[https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)](https://www.youtube.com/watch?v=KaIzzUs2BkI)
+  English :
 
 - [[https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)](https://www.youtube.com/watch?v=KaIzzUs2BkI)
-Arabic tutorial:
-
-- [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
 
 - Articles
 

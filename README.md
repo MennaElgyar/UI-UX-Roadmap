@@ -104,6 +104,7 @@ English tutorial :
     ### Upload project
     
     - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=5yL-_sYKCHU)
+    
      
      
      ![8 Steps of UX Design Process_ All You Need to Know - Softermii5](https://user-images.githubusercontent.com/108477138/203283469-22cfeb04-d743-4020-b32b-67a47293674e.png)
@@ -188,7 +189,7 @@ English tutorial :
         - [important site](https://www.designresourc.es/)
 
 
-    ## **▶️ Contac 📱**
+    ## **▶️ Contact 📱**
 
      <a href="https://www.facebook.com/MennaMElgyar"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
      <a href="https://www.linkedin.com/in/menna-elgyar/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>

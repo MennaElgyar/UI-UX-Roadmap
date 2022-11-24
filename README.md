@@ -186,5 +186,11 @@ English tutorial :
         - [mobbin](https://mobbin.design/browse/ios/apps)
         - [Awwwards](https://www.awwwards.com/)
         - [important site](https://www.designresourc.es/)
-    
+
+
+    ## **▶️ Contac 📱**
+
+<a href="(https://www.facebook.com/MennaMElgyar)"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="http://linkedin.com/in/doaa-hamdy-8598201b4" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+
     ##

@@ -27,8 +27,6 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 
 
-- [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
-
 ## How to start with a Tool
 
 ### Adobe XD Tool

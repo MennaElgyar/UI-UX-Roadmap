@@ -75,6 +75,10 @@ English tutorial :
     - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)
     - [10 rules of thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
     - [Gestalt principles](https://www.usertesting.com/blog/gestalt-principles)
+- *Guidelines*
+    - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
+    - [Material Design](https://material.io/design/guidelines-overview)
+    - [A/B Test for websites](https://goodui.org/)
 - *Color Theory*
     - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
     - [A Beginner's Guide to Color Theory](https://uxcel.com/blog/beginners-guide-to-color-theory)

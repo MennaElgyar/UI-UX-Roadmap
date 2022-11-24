@@ -22,9 +22,11 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 - Articles
 
-           Arabic :[https://www.alrab7on.com/ui-ux-design-and-the-difference](https://www.alrab7on.com/ui-ux-design-and-the-difference)
+           Arabic :
+           -[https://www.alrab7on.com/ui-ux-design-and-the-difference](https://www.alrab7on.com/ui-ux-design-and-the-difference)
 
-           English :[https://manvisinghwal.medium.com/whats-the-difference- between-ui-ux-design-aeddfdbe3206](https://manvisinghwal.medium.com/whats-the-difference-%20between-ui-ux-design-aeddfdbe3206)
+           English :
+           -[https://manvisinghwal.medium.com/whats-the-difference- between-ui-ux-design-aeddfdbe3206](https://manvisinghwal.medium.com/whats-the-difference-%20between-ui-ux-design-aeddfdbe3206)
 
 ## How to start with a Tool
 

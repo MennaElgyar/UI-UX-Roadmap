@@ -16,8 +16,7 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 - Videos
 
-  Arabic :
-- (https://www.youtube.com/watch?v=KaIzzUs2BkI) 
+  Arabic :(https://www.youtube.com/watch?v=KaIzzUs2BkI) 
 
   English :
 - (https://www.youtube.com/watch?v=RtPnVtXw6HU)

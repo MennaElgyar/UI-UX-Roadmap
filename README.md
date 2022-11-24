@@ -16,18 +16,18 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 - Videos
 
-         Arabic tutorial:
+Arabic tutorial:
 
 - [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
-           English : [https://www.youtube.com/watch?v=RtPnVtXw6HU](https://www.youtube.com/watch?v=RtPnVtXw6HU)
+Arabic tutorial:
+
+- [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
 
 - Articles
 
-           Arabic :
-           -[https://www.alrab7on.com/ui-ux-design-and-the-difference](https://www.alrab7on.com/ui-ux-design-and-the-difference)
+ Arabic tutorial:
 
-           English :
-           -[https://manvisinghwal.medium.com/whats-the-difference- between-ui-ux-design-aeddfdbe3206](https://manvisinghwal.medium.com/whats-the-difference-%20between-ui-ux-design-aeddfdbe3206)
+- [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
 
 ## How to start with a Tool
 

@@ -36,12 +36,11 @@ Arabic tutorial:
 - [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
 - [https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF](https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
 
-OR :
 
 English tutorial :
 - [Adobe XD UI UX Essentials 2022](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
-- [https://learnux.io/course/adobe-xd](https://learnux.io/course/adobe-xd)
-- [https://youtu.be/WEljsc2jorI](https://youtu.be/WEljsc2jorI)
+- [learnux_adobe-xd](https://learnux.io/course/adobe-xd)
+- [Youtube Crash Course](https://youtu.be/WEljsc2jorI)
 
 
 ### Figma Tool

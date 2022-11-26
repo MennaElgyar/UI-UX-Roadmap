@@ -31,13 +31,14 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 ### Adobe XD Tool
 
-Arabic tutorial:
+Arabic tutorials:
 
 - [Youtube Playlist ](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
 
 
-English tutorial :
+English tutorials :
+     Note : Select One course
 - [Adobe XD UI UX Essentials 2022](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
 - [learnux_adobe-xd](https://learnux.io/course/adobe-xd)
 - [Youtube Crash Course](https://youtu.be/WEljsc2jorI)

@@ -50,14 +50,14 @@ English tutorials :
 Arabic tutorial :
 
 - [Youtube Playlist](https://youtube.com/playlist?list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-)
-- https://youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ
+-[Youtube Playlist] https://youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ
 
 
 
 English tutorial :
 
 - [learnux_Figma](https://learnux.io/course/figma)
-- [https://youtu.be/kbZejnPXyLM](https://youtu.be/kbZejnPXyLM)
+- [Youtube Crash Course](https://youtu.be/kbZejnPXyLM)
 
 ## Practice on how to use the tool(use any tool)
 

@@ -1,4 +1,5 @@
 ![UI/UX](https://user-images.githubusercontent.com/108477138/203272448-b7de116c-1bdb-4c3c-92d1-92a1b5c3606f.png)
+,لاق.
 This repository provide a free courses and tutorials to learn the field of UI/UX . I provide some of the best free resources and tutorials in English and Arabic.
 # UI-UX-Roadmap
 How to start in UI/UX. This Document for who are interested in UI/UX .
@@ -50,7 +51,7 @@ English tutorials :
 Arabic tutorial :
 
 - [Youtube Playlist](https://youtube.com/playlist?list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-)
--[Youtube Playlist] https://youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ
+- [Youtube Playlist](https://youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)
 
 
 

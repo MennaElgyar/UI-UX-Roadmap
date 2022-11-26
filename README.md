@@ -80,7 +80,7 @@ English tutorial :
 - *Guidelines*
     - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
     - [Material Design](https://material.io/design/guidelines-overview)
-    - [A/B Test for websites](https://goodui.org/)
+    
 - *Color Theory*
     - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
     - [A Beginner's Guide to Color Theory](https://uxcel.com/blog/beginners-guide-to-color-theory)
@@ -106,7 +106,9 @@ English tutorial :
             - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
             - [8pt grid system](https://youtu.be/ak_zNvESZL8)
             - [Grid Systems in Web & UI Design](https://youtu.be/n_V_aLqYPI0)
-    
+    ### Mockups
+    -  [Artboard Studio](https://artboard.studio/0)
+   
     ### Upload project
     
     - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=5yL-_sYKCHU)

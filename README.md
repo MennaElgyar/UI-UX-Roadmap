@@ -33,8 +33,8 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 Arabic tutorial:
 
-- [https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
-- [https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF](https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
+- [Youtube Playlist ](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
 
 
 English tutorial :

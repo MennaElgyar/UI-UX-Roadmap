@@ -29,7 +29,6 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 
 ## How to start with a Tool
 ### Adobe XD Tool
-![icons8-pin-48](https://user-images.githubusercontent.com/108477138/204086607-f7dcb860-6e47-4c24-a1ac-9ec41dd6de5c.png) ### Adobe XD Tool
 
 Arabic tutorials:
 
@@ -50,14 +49,14 @@ English tutorials :
 
 Arabic tutorial :
 
-- [https://youtube.com/playlist?list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-](https://youtube.com/playlist?list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-)
+- [Youtube Playlist](https://youtube.com/playlist?list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-)
 - https://youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ
 
-OR :
+
 
 English tutorial :
 
-- [https://learnux.io/course/figma](https://learnux.io/course/figma)
+- [learnux_Figma](https://learnux.io/course/figma)
 - [https://youtu.be/kbZejnPXyLM](https://youtu.be/kbZejnPXyLM)
 
 ## Practice on how to use the tool(use any tool)

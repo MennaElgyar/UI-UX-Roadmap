@@ -39,7 +39,7 @@ Arabic tutorial:
 OR :
 
 English tutorial :
-- [Adobe XD UI UX Essentials 2022]((https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb))
+- [Adobe XD UI UX Essentials 2022](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
 - [https://learnux.io/course/adobe-xd](https://learnux.io/course/adobe-xd)
 - [https://youtu.be/WEljsc2jorI](https://youtu.be/WEljsc2jorI)
 

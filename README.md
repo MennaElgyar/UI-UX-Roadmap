@@ -42,7 +42,7 @@ English tutorials :
 ![icons8-pin-in-circle-48 (1)](https://user-images.githubusercontent.com/108477138/204081491-c39a6e74-fba7-4767-84b9-9c911831fd71.png)
 
 
-     Select One course
+     *Select One course*
 - [Adobe XD UI UX Essentials 2022](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
 - [learnux_adobe-xd](https://learnux.io/course/adobe-xd)
 - [Youtube Crash Course](https://youtu.be/WEljsc2jorI)

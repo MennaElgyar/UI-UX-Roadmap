@@ -111,8 +111,9 @@ English tutorial :
     
     - [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=5yL-_sYKCHU)
     
-     <br>
-    ## ****UX Design****
+    
+    
+    # UX Design
      
      ![8 Steps of UX Design Process_ All You Need to Know - Softermii5](https://user-images.githubusercontent.com/108477138/203283469-22cfeb04-d743-4020-b32b-67a47293674e.png)
 
@@ -154,8 +155,10 @@ English tutorial :
     ### Digital Prototype
     
     - [The ultimate guide to prototyping](https://www.justinmind.com/prototyping?ref=uxtools-challenges)
-    - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+    - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk) <br> <br>
     
+    
+    ![icons8-mark-64](https://user-images.githubusercontent.com/108477138/204092705-bd2e7211-62bd-4245-be18-f80ba4a7ee05.png)   
     ### Resources you will need it
     
     - *Images*

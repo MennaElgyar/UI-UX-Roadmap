@@ -11,6 +11,10 @@ User experience design is the process of developing and improving the quality of
 Our experience shows that to win in this space, well-thought UX/UI design process is of crucial importance because it facilitates the workflows of different user personas, maximizes customer lifecycle value, creates meaningful user experience, adds up to the brand's image and stays relevant to real users over time.
 ## ****What is the goal with UI and UX ?****
 UI/UX designer focused on the extensive understanding of user values, needs, and limitations. The design of your digital product should be clear, intuitive, and offer impressive usability to influences end-users to enjoy it.
+
+## This Track isn't divided into phases
+Recommend studing ux parallel with ui .
+ <br>    
 ![Mobile wireframe-amico (1)](https://user-images.githubusercontent.com/108477138/203272228-4964ba69-c630-4dda-8112-2ee25270c413.png)
 
 ## ****Difference Between UI & UX.****

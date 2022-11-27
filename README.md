@@ -172,6 +172,15 @@ English tutorial :
     - [The ultimate guide to prototyping](https://www.justinmind.com/prototyping?ref=uxtools-challenges)
     - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk) <br> <br>
     
+     ### Website for study ux ( articles & videos )
+     
+    - [UX Planet ](https://uxplanet.org/)(recommend)
+    <br>
+    
+     ### website to learn principles of uix
+     
+    - [uxcel ](https://uxcel.com/)(recommend)
+    <br>
     
     ![icons8-mark-64](https://user-images.githubusercontent.com/108477138/204092705-bd2e7211-62bd-4245-be18-f80ba4a7ee05.png)   
     ### Resources you will need it

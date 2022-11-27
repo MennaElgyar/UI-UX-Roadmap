@@ -108,7 +108,7 @@ English tutorial :
             - [Grid Systems in Web & UI Design](https://youtu.be/n_V_aLqYPI0)
     ### Mockups
     -  [Artboard Studio](https://artboard.studio/0[)
-    -  [Angle Mockup]((https://angle.sh/)
+    -  [Angle Mockup](https://angle.sh/)
    
     ### Upload project
     

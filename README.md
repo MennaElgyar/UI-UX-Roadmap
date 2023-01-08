@@ -178,25 +178,33 @@ English tutorial :
     - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk) <br> <br>
     
     ### Website and Blogs
-    - Learn UX (learnux.io)
-    - Laws of UX (lawsofux.com)
-    - UX Collective (uxdesign.cc)
-    - The NN Group (nngroup.com)
-    - Inside Design (https://lnkd.in/dpN6JuQb)
-    - Adobe XD Blog (blog.adobe.com)
-    - UX Planet (uxplanet.org)
-     ### Website for study ux ( articles & videos )
-     
-    - [UX Planet ](https://uxplanet.org/)(recommend)
+    - [uxcel ](https://uxcel.com/)
+    - [learnux ](https://learnux.io/)
+    - [UX Planet ](https://uxplanet.org/)
+    - [Tailwind ui documentation](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWNKN1lQa3FBZ1k4YjNHYVVKRW1TbHpieFVRZ3xBQ3Jtc0trRERIUUJIMzFnbXNxeGUzNTJOcHhUOXU1X1c0VEZHTHcwMUlCV1VpMlVOcDhzblhTQWQ1MlpYM0VHT0Y4LThEeW1ndjhXUmF3NkpjYk80alZMcklmRmo2WnJpbkVFQjlXZ1o5YTh3aGJjUjBoejBEYw&q=https%3A%2F%2Ftailwindcss.com%2Fdocs%2F&v=Rl88hHD-BHs) (UI roles for web designing
+)
+    - [Laws of UX ](https://lawsofux.com/)
+    - [UX Collective ](https://uxdesign.cc/)
+    - [The NN Group](https://www.nngroup.com/)
+    - [Inside Design](https://www.invisionapp.com/inside-design)
+    - [Adobe XD Blog](https://blog.adobe.com/)
+    
+    
+    
     <br>
     
-     ### website to learn principles of uix
-     
-    - [uxcel ](https://uxcel.com/)(recommend)
+   ▶ YouTube Channels
+     - DesignCourse
+     - Mike Locke
+     - Aj & Smart
+     - Femke.design
+     - Ansh Mehra
+     - Jesse Showalter
+     - Career Foundry
+
     <br>
-    
-     ### UI roles for web designing
-     - [Tailwind ui documentation](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWNKN1lQa3FBZ1k4YjNHYVVKRW1TbHpieFVRZ3xBQ3Jtc0trRERIUUJIMzFnbXNxeGUzNTJOcHhUOXU1X1c0VEZHTHcwMUlCV1VpMlVOcDhzblhTQWQ1MlpYM0VHT0Y4LThEeW1ndjhXUmF3NkpjYk80alZMcklmRmo2WnJpbkVFQjlXZ1o5YTh3aGJjUjBoejBEYw&q=https%3A%2F%2Ftailwindcss.com%2Fdocs%2F&v=Rl88hHD-BHs) 
+   
+
     
     ![icons8-mark-64](https://user-images.githubusercontent.com/108477138/204092705-bd2e7211-62bd-4245-be18-f80ba4a7ee05.png)   
     ### Resources you will need it

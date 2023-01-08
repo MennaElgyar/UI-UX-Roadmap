@@ -177,6 +177,14 @@ English tutorial :
     - [The ultimate guide to prototyping](https://www.justinmind.com/prototyping?ref=uxtools-challenges)
     - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk) <br> <br>
     
+    ### Website and Blogs
+    - Learn UX (learnux.io)
+    - Laws of UX (lawsofux.com)
+    - UX Collective (uxdesign.cc)
+    - The NN Group (nngroup.com)
+    - Inside Design (https://lnkd.in/dpN6JuQb)
+    - Adobe XD Blog (blog.adobe.com)
+    - UX Planet (uxplanet.org)
      ### Website for study ux ( articles & videos )
      
     - [UX Planet ](https://uxplanet.org/)(recommend)

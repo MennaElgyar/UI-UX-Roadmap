@@ -104,6 +104,8 @@ English tutorial :
     - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
 - *Grid System*
     - Articles
+- *Alignment in UI*
+    - [Typography in UI: Guide for Beginners]((https://aelaschool.com/en/visualdesign/alignment-ui-invisible-structure-behind-designs/#:~:text=Alignment%20is%20essential%20for%20UI,across%20different%20platforms%20and%20devices.))
         
         •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-design/%23:~:text=Column%20grids%20can%20have%20as,%2C%20nine%2C%20or%2012%20columns)
         

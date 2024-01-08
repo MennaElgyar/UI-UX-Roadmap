@@ -139,18 +139,26 @@ Recommend studing ux parallel with ui .
    
    <details><summary>Grid System</summary>
      <details><summary>Articles</summary>
-       •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-
+      -6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-
      </details>
      <details><summary>Videos</summary>
-       •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-
+      <details><summary>Arabic</summary>
+       - [8pt grid & spacing in UI Design](https://youtu.be/ctXmOtBNwV8)
+     </details>
+     <details><summary>English</summary>
+       - [4pt grid system](https://youtu.be/-H7NsvZtU2Q)
+       - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
+       - [8pt grid system](https://youtu.be/ak_zNvESZL8)
+       - [Grid Systems in Web & UI Design](https://youtu.be/n_V_aLqYPI0)
+     </details>
      </details>
    </details>
 
 - **
     - Articles      
-        •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-design/%23:~:text=Column%20grids%20can%20have%20as,%2C%20nine%2C%20or%2012%20columns)
+        -[6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-design/%23:~:text=Column%20grids%20can%20have%20as,%2C%20nine%2C%20or%2012%20columns)
         
-        •  [8-Point Grid](https://spec.fm/specifics/8-pt-grid?fbclid=IwAR1g_goEhw0SNhix91zj1yLNeAvmW8Qg5Ab4ia-OiXSgvSuqgMhPlbbI9m8)
+        -[8-Point Grid](https://spec.fm/specifics/8-pt-grid?fbclid=IwAR1g_goEhw0SNhix91zj1yLNeAvmW8Qg5Ab4ia-OiXSgvSuqgMhPlbbI9m8)
         
     - Videos
         - Arabic :

@@ -65,17 +65,24 @@ Recommend studing ux parallel with ui .
 
 ### Figma Tool
 
-Arabic tutorial :
+<details>
+<summary>Arabic tutorials</summary>
+ 
+  - [Youtube Playlist](https://youtube.com/playlist?list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-)
+  - [Youtube Playlist](https://youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)
 
-- [Youtube Playlist](https://youtube.com/playlist?list=PLjzhiGLyugKynpBi7v2AWMCJgTrRI6Ne-)
-- [Youtube Playlist](https://youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)
+</details> 
+
+<details>
+<summary>English tutorials</summary>
+ 
+  - [learnux_Figma](https://learnux.io/course/figma)
+ - [Youtube Crash Course](https://youtu.be/kbZejnPXyLM)
+
+</details> 
 
 
 
-English tutorial :
-
-- [learnux_Figma](https://learnux.io/course/figma)
-- [Youtube Crash Course](https://youtu.be/kbZejnPXyLM)
 
 ## Practice on how to use the tool(use any tool)
 

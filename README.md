@@ -251,9 +251,8 @@ English tutorial :
       - [1001Fonts](https://www.1001fonts.com/)
     </details>
 
-    .  <details><summary>Color inspiration</summary>
+    <details><summary>Color inspiration</summary>
 
-    
         - [Color Hunt](https://colorhunt.co/)
         - [Coolors](https://coolors.co/)
         - [Flat UI Colors](https://flatuicolors.com/)

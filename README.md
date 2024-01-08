@@ -154,9 +154,9 @@ Recommend studing ux parallel with ui .
          - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
          - [8pt grid system](https://youtu.be/ak_zNvESZL8)
          - [Grid Systems in Web & UI Design](https://youtu.be/n_V_aLqYPI0)
-       </details>
-      
       </details>
+      
+     </details>
     </details>
 
 

@@ -235,19 +235,25 @@ English tutorial :
     </details>
 
       <details><summary>Illustrations</summary>
-         - [Storyset](https://storyset.com/)
-        - [Undraw](https://undraw.co/Illustrations)
-        - [Illustation](https://illustation.io/)
-        - [Drawkit](https://drawkit.com/)
+
+       
+     - [Storyset](https://storyset.com/)
+     - [Undraw](https://undraw.co/Illustrations)
+     - [Illustation](https://illustation.io/)
+     - [Drawkit](https://drawkit.com/)
      </details>
    
      <details><summary>Fonts</summary>
-         - [google fonts](https://fonts.google.com/)
-        - [Dafont](https://www.dafont.com/)
-        - [1001Fonts](https://www.1001fonts.com/)
+
+      
+      - [google fonts](https://fonts.google.com/)
+      - [Dafont](https://www.dafont.com/)
+      - [1001Fonts](https://www.1001fonts.com/)
     </details>
 
     .  <details><summary>Color inspiration</summary>
+
+    
         - [Color Hunt](https://colorhunt.co/)
         - [Coolors](https://coolors.co/)
         - [Flat UI Colors](https://flatuicolors.com/)

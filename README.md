@@ -142,12 +142,11 @@ Recommend studing ux parallel with ui .
      - [6 Rules of Thumb For Creating Website Grids]([https://uxdesign.cc/principles-of-ui-design-alignment-dd707e983f29](https://elementor.com/blog/grid-)
     </details>
     <details><summary>Videos</summary>
-       <details><summary>Arabic</summary>
-        - [8pt grid & spacing in UI Design](https://youtu.be/ctXmOtBNwV8)
-       </details>
+      <details><summary>Arabic</summary>
+       - [8pt grid & spacing in UI Design](https://youtu.be/ctXmOtBNwV8)
+      </details>
       
-       <details><summary>English</summary>
-       
+      <details><summary>English</summary>
         - [4pt grid system](https://youtu.be/-H7NsvZtU2Q)
         - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
         - [8pt grid system](https://youtu.be/ak_zNvESZL8)

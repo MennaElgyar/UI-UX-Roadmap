@@ -105,7 +105,7 @@ Recommend studing ux parallel with ui .
         - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)
         - [10 rules of thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
         - [Gestalt principles](https://www.usertesting.com/blog/gestalt-principles)
-    </details>
+  </details>
    <details><summary></summary>
 
     

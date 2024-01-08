@@ -16,7 +16,7 @@ UI/UX designer focused on the extensive understanding of user values, needs, and
 ## This Track isn't divided into phases
 Recommend studing ux parallel with ui .
  <br>    
-![Mobile wireframe-amico (1)](https://user-images.githubusercontent.com/108477138/203272228-4964ba69-c630-4dda-8112-2ee25270c413.png)
+
 
 ## ****Difference Between UI & UX.****
 

@@ -102,15 +102,20 @@ Recommend studing ux parallel with ui .
 *For More practise [XD Challenge (Behance)](https://www.behance.net/challenge/xd)*
 ## **UI Design principles.**
 
--  *principles of visual-design*
+<details><summary>principles of visual-design</summary>
+
     - [The Basic Principles of User Interface Design](https://www.uxpin.com/studio/blog/ui-design-principles/)
     - [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
     - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)
     - [10 rules of thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
     - [Gestalt principles](https://www.usertesting.com/blog/gestalt-principles)
-- *Guidelines*
+  </details>
+ <details><summary>Guidelines</summary>
+
     - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
     - [Material Design](https://material.io/design/guidelines-overview)
+  </details>
+
     
 - *Color Theory*
     - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)

@@ -265,13 +265,13 @@ English tutorial :
     </details>
     
     ### Inspiration
-        - [Behance](https://www.behance.net/)
-        - [Dribbble](https://dribbble.com/)
-        - [mobbin](https://mobbin.design/browse/ios/apps)
-        - [Awwwards](https://www.awwwards.com/)
-        - [important site](https://www.designresourc.es/)
+      - [Behance](https://www.behance.net/)
+      - [Dribbble](https://dribbble.com/)
+      - [mobbin](https://mobbin.design/browse/ios/apps)
+      - [Awwwards](https://www.awwwards.com/)
+      - [important site](https://www.designresourc.es/)
 
-    </details>
+  
        
     
 

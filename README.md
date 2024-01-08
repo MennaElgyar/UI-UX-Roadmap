@@ -52,15 +52,13 @@ Recommend studing ux parallel with ui .
 
 <details>
 <summary>English tutorials </summary>
- <br>
-    ![icons8-pin-in-circle-48__1_-removebg-preview](https://user-images.githubusercontent.com/108477138/204081690-6f38160f-789b-4c1c-8637-6efa0de80665.png)*Select One course*
+ *Select One course*
  - [Adobe XD UI UX Essentials 2022](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
  - [learnux_adobe-xd](https://learnux.io/course/adobe-xd)
  - [Youtube Crash Course](https://youtu.be/WEljsc2jorI)
 </details> 
 
 
-:
 
 
 

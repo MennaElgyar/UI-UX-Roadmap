@@ -156,13 +156,13 @@ Recommend studing ux parallel with ui .
 
   
   ## Desgin System
-     -  [youtube playlist](https://www.youtube.com/playlist?list=PLDaHCLWmCcQL3ipBjcrJYc_DT6B2nxVf0)
-     -  [Article](https://www.uxpin.com/create-design-system-guide/)
+   -  [youtube playlist](https://www.youtube.com/playlist?list=PLDaHCLWmCcQL3ipBjcrJYc_DT6B2nxVf0)
+    - [Article](https://www.uxpin.com/create-design-system-guide/)
 
   ## Mockups
-    -  [Artboard Studio](https://artboard.studio/0[)
-    -  [Angle Mockup](https://www.figma.com/community/plugin/778645840235495725/Angle-Mockups)
-    -  [Clay Mockups 3D](https://www.figma.com/community/plugin/819335598581469537/Clay-Mockups-3D)
+   -  [Artboard Studio](https://artboard.studio/0[)
+   -  [Angle Mockup](https://www.figma.com/community/plugin/778645840235495725/Angle-Mockups)
+   -  [Clay Mockups 3D](https://www.figma.com/community/plugin/819335598581469537/Clay-Mockups-3D)
  - *Videos*
     - [How To Create Mockups](https://www.youtube.com/watch?v=XVbw79i3poc&t=81s) 
    ## Upload project

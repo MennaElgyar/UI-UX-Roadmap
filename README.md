@@ -157,7 +157,7 @@ Recommend studing ux parallel with ui .
   
   ## Desgin System
    -  [youtube playlist](https://www.youtube.com/playlist?list=PLDaHCLWmCcQL3ipBjcrJYc_DT6B2nxVf0)
-    - [Article](https://www.uxpin.com/create-design-system-guide/)
+   - [Article](https://www.uxpin.com/create-design-system-guide/)
 
   ## Mockups
    -  [Artboard Studio](https://artboard.studio/0[)

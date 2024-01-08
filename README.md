@@ -212,7 +212,14 @@ English tutorial :
     
     ![icons8-mark-64](https://user-images.githubusercontent.com/108477138/204092705-bd2e7211-62bd-4245-be18-f80ba4a7ee05.png)   
     ### Resources you will need it
-    
+    <details><summary>Images</summary>
+
+     - [Unsplash](https://unsplash.com/)
+     - [Pexels](https://www.pexels.com/)
+     - [Freepik](https://www.freepik.com/)
+     - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
+    - [Pinterest](https://www.pinterest.com/)
+    </details>
     - *Images*
         - [Unsplash](https://unsplash.com/)
         - [Pexels](https://www.pexels.com/)

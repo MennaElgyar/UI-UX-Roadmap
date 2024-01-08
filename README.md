@@ -218,18 +218,20 @@ English tutorial :
      - [Pexels](https://www.pexels.com/)
      - [Freepik](https://www.freepik.com/)
      - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
-    - [Pinterest](https://www.pinterest.com/)
+     - [Pinterest](https://www.pinterest.com/)
     </details>
 
     <details><summary>Icons</summary>
+
+     
      - [Freeicons](https://freeicons.io/)
      - [Flaticon](https://www.flaticon.com/)
      - [Icons8](https://icons8.com/)
      - [Iconfinder](https://www.iconfinder.com/)
      - [Free icons](https://freeicons.io/)
      - [Feather icons](https://feathericons.com/)
-      - [Icons store](https://iconstore.co/)
-      - [Simple icon](https://simpleicons.org/)
+     - [Icons store](https://iconstore.co/)
+     - [Simple icon](https://simpleicons.org/)
     </details>
 
       <details><summary>Illustrations</summary>

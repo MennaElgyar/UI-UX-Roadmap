@@ -180,8 +180,9 @@ English tutorial :
     
     - [The ultimate guide to prototyping](https://www.justinmind.com/prototyping?ref=uxtools-challenges)
     - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk) <br> <br>
+
+    <details><summary>### Website and Blogs</summary>
     
-    ### Website and Blogs
     - [uxcel ](https://uxcel.com/)
     - [learnux ](https://learnux.io/)
     - [UX Planet ](https://uxplanet.org/)
@@ -192,7 +193,7 @@ English tutorial :
     - [The NN Group](https://www.nngroup.com/)
     - [Inside Design](https://www.invisionapp.com/inside-design)
     - [Adobe XD Blog](https://blog.adobe.com/)
-    
+     </details>
     
     
     <br>

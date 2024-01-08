@@ -214,7 +214,7 @@ English tutorial :
    
 
     
-    ![icons8-mark-64](https://user-images.githubusercontent.com/108477138/204092705-bd2e7211-62bd-4245-be18-f80ba4a7ee05.png)   
+       
     ### Resources you will need it
     <details><summary>Images</summary>
 
@@ -264,8 +264,7 @@ English tutorial :
       - [Colorinspire](https://colorinspire.webflow.io/)
     </details>
     
-       
-    .  <details><summary>Inspiration</summary>
+    ### Inspiration
         - [Behance](https://www.behance.net/)
         - [Dribbble](https://dribbble.com/)
         - [mobbin](https://mobbin.design/browse/ios/apps)

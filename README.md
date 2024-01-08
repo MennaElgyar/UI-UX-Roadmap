@@ -253,11 +253,11 @@ English tutorial :
 
     <details><summary>Color inspiration</summary>
 
-        - [Color Hunt](https://colorhunt.co/)
-        - [Coolors](https://coolors.co/)
-        - [Flat UI Colors](https://flatuicolors.com/)
-        - [Colormind](http://colormind.io/)
-        - [Colorinspire](https://colorinspire.webflow.io/)
+      - [Color Hunt](https://colorhunt.co/)
+      - [Coolors](https://coolors.co/)
+      - [Flat UI Colors](https://flatuicolors.com/)
+      - [Colormind](http://colormind.io/)
+      - [Colorinspire](https://colorinspire.webflow.io/)
     </details>
     
        

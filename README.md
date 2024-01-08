@@ -42,19 +42,26 @@ Recommend studing ux parallel with ui .
 ## How to start with a Tool
 ### Adobe XD Tool
 
-Arabic tutorials:
-
-- [Youtube Playlist ](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
+<details>
+<summary>Arabic tutorials</summary>
+ - [Youtube Playlist ](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
+</details> 
 
 
-English tutorials :
-<br>
+<details>
+<summary>English tutorials </summary><br>
     ![icons8-pin-in-circle-48__1_-removebg-preview](https://user-images.githubusercontent.com/108477138/204081690-6f38160f-789b-4c1c-8637-6efa0de80665.png)*Select One course*
     
-- [Adobe XD UI UX Essentials 2022](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
+ - [Adobe XD UI UX Essentials 2022](https://www.youtube.com/playlist?list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb)
 - [learnux_adobe-xd](https://learnux.io/course/adobe-xd)
 - [Youtube Crash Course](https://youtu.be/WEljsc2jorI)
+</details> 
+
+
+:
+
+
 
 
 ### Figma Tool

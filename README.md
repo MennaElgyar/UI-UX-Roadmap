@@ -106,14 +106,11 @@ Recommend studing ux parallel with ui .
    - [10 rules of thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
    - [Gestalt principles](https://www.usertesting.com/blog/gestalt-principles)
   </details>
-   <details><summary></summary>
+  
+  <details><summary>Guidelines</summary>
 
-    
-    </details>
-    <details><summary>Guidelines</summary>
-
-    - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
-    - [Material Design](https://material.io/design/guidelines-overview)
+   - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
+   - [Material Design](https://material.io/design/guidelines-overview)
     </details>
 
     

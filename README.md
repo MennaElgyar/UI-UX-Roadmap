@@ -200,7 +200,7 @@ English tutorial :
     <br>
     
    ▶ YouTube Channels
-   <details><summary>Explore</summary>
+    <details><summary>Explore</summary>
      - DesignCourse
      - Mike Locke
      - Aj & Smart

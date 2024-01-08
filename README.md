@@ -23,7 +23,8 @@ Recommend studing ux parallel with ui .
 
 <details>
 <summary>Articles</summary>
-  Arabic : (https://www.alrab7on.com/ui-ux-design-and-the-difference)<br>
+  Arabic : (https://www.alrab7on.com/ui-ux-design-and-the-difference)
+ <br>
 
   English : (https://manvisinghwal.medium.com/whats-the-difference-%20between-ui-ux-design-aeddfdbe3206)
 </details>

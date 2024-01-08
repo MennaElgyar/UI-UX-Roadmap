@@ -182,7 +182,7 @@ English tutorial :
     - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk) <br> <br>
 
    ### Website and Blogs
-    <details><summary></summary>
+    <details><summary>Explore</summary>
     
     - [uxcel ](https://uxcel.com/)
     - [learnux ](https://learnux.io/)
@@ -200,6 +200,7 @@ English tutorial :
     <br>
     
    ▶ YouTube Channels
+   <details><summary>Explore</summary>
      - DesignCourse
      - Mike Locke
      - Aj & Smart
@@ -207,7 +208,7 @@ English tutorial :
      - Ansh Mehra
      - Jesse Showalter
      - Career Foundry
-
+    </details>
     <br>
    
 

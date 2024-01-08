@@ -222,14 +222,14 @@ English tutorial :
     </details>
 
     <details><summary>Icons</summary>
-        - [Freeicons](https://freeicons.io/)
-        - [Flaticon](https://www.flaticon.com/)
-        - [Icons8](https://icons8.com/)
-        - [Iconfinder](https://www.iconfinder.com/)
-        - [Free icons](https://freeicons.io/)
-        - [Feather icons](https://feathericons.com/)
-        - [Icons store](https://iconstore.co/)
-        - [Simple icon](https://simpleicons.org/)
+     - [Freeicons](https://freeicons.io/)
+     - [Flaticon](https://www.flaticon.com/)
+     - [Icons8](https://icons8.com/)
+     - [Iconfinder](https://www.iconfinder.com/)
+     - [Free icons](https://freeicons.io/)
+     - [Feather icons](https://feathericons.com/)
+      - [Icons store](https://iconstore.co/)
+      - [Simple icon](https://simpleicons.org/)
     </details>
 
       <details><summary>Illustrations</summary>

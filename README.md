@@ -220,13 +220,8 @@ English tutorial :
      - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
     - [Pinterest](https://www.pinterest.com/)
     </details>
-    - *Images*
-        - [Unsplash](https://unsplash.com/)
-        - [Pexels](https://www.pexels.com/)
-        - [Freepik](https://www.freepik.com/)
-        - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
-        - [Pinterest](https://www.pinterest.com/)
-    - *Icons*
+
+    <details><summary>Icons</summary>
         - [Freeicons](https://freeicons.io/)
         - [Flaticon](https://www.flaticon.com/)
         - [Icons8](https://icons8.com/)
@@ -235,21 +230,32 @@ English tutorial :
         - [Feather icons](https://feathericons.com/)
         - [Icons store](https://iconstore.co/)
         - [Simple icon](https://simpleicons.org/)
-    - *Illustrations*
-        - [Storyset](https://storyset.com/)
+    </details>
+
+      <details><summary>Illustrations</summary>
+         - [Storyset](https://storyset.com/)
         - [Undraw](https://undraw.co/Illustrations)
         - [Illustation](https://illustation.io/)
         - [Drawkit](https://drawkit.com/)
-    - *Fonts*
-        - [google fonts](https://fonts.google.com/)
+     </details>
+   
+     <details><summary>Fonts</summary>
+         - [google fonts](https://fonts.google.com/)
         - [Dafont](https://www.dafont.com/)
         - [1001Fonts](https://www.1001fonts.com/)
-    - Color inspiration
-        - [Color Hunt](https://colorhunt.co/)
+    </details>
+
+    .  <details><summary>Color inspiration</summary>
+         - [Color Hunt](https://colorhunt.co/)
         - [Coolors](https://coolors.co/)
         - [Flat UI Colors](https://flatuicolors.com/)
         - [Colormind](http://colormind.io/)
         - [Colorinspire](https://colorinspire.webflow.io/)
+    </details>
+    
+       
+    
+       
     - *Inspiration*
         - [Behance](https://www.behance.net/)
         - [Dribbble](https://dribbble.com/)

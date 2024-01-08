@@ -199,7 +199,8 @@ English tutorial :
     
     <br>
     
-   ▶ YouTube Channels
+   ### YouTube Channels
+
     <details><summary>Explore</summary>
      - DesignCourse
      - Mike Locke

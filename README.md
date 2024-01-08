@@ -153,7 +153,6 @@ Recommend studing ux parallel with ui .
       - [Grid Systems in Web & UI Design](https://youtu.be/n_V_aLqYPI0)
      </details> 
     </details>
-  
    </details>
 
 

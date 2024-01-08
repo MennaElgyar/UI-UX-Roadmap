@@ -44,8 +44,8 @@ Recommend studing ux parallel with ui .
 
 <details>
 <summary>Arabic tutorials</summary>
- - [Youtube Playlist ](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
- - [Youtube Playlist](https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
+  - [Youtube Playlist ](https://youtube.com/playlist?list=PLjyD08NqprdXJRdzStL9wTQjH7UCE4qYC)
+  - [Youtube Playlist](https://www.youtube.com/playlist?list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
 </details> 
 
 

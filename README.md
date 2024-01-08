@@ -20,9 +20,9 @@ Recommend studing ux parallel with ui .
 
 ## ****Difference Between UI & UX.****
 
-- Articles
+
 <details>
-<summary>Cool Dropdown</summary>
+<summary>Articles</summary>
   Arabic : (https://www.alrab7on.com/ui-ux-design-and-the-difference)
 
   English : (https://manvisinghwal.medium.com/whats-the-difference-%20between-ui-ux-design-aeddfdbe3206)

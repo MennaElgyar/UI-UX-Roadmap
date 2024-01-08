@@ -100,11 +100,11 @@ Recommend studing ux parallel with ui .
 
  <details><summary>principles of visual-design</summary>
 
-        - [The Basic Principles of User Interface Design](https://www.uxpin.com/studio/blog/ui-design-principles/)
-        - [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
-        - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)
-        - [10 rules of thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
-        - [Gestalt principles](https://www.usertesting.com/blog/gestalt-principles)
+   - [The Basic Principles of User Interface Design](https://www.uxpin.com/studio/blog/ui-design-principles/)
+   - [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
+   - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)
+   - [10 rules of thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
+   - [Gestalt principles](https://www.usertesting.com/blog/gestalt-principles)
   </details>
    <details><summary></summary>
 

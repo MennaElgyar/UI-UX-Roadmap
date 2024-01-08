@@ -111,25 +111,42 @@ Recommend studing ux parallel with ui .
 
    - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
    - [Material Design](https://material.io/design/guidelines-overview)
-    </details>
+   </details>
+   
+ <details><summary>Color Theory</summary>
 
-    
-- *Color Theory*
-    - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
-    - [A Beginner's Guide to Color Theory](https://uxcel.com/blog/beginners-guide-to-color-theory)
-- Icons
-    - [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
-    - [Types and Functions of UI Icons](https://blog.tubikstudio.com/small-elements-big-impact-types-and-functions-of-ui-icons/)
-- *Typography*
-    - [Typography in UI Design](https://www.shopify.com/partners/blog/typography)
-    - [How To Use Typography In UI Design](https://careerfoundry.com/en/blog/ui-design/typography-ui-design/)
-    - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
+   - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
+   - [A Beginner's Guide to Color Theory](https://uxcel.com/blog/beginners-guide-to-color-theory)
+  </details>
 
-- *Alignment*
-     - [Principles of UI design: Alignment](https://uxdesign.cc/principles-of-ui-design-alignment-dd707e983f29)
+  <details><summary>Icons</summary>
 
+   - [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
+   - [Types and Functions of UI Icons](https://blog.tubikstudio.com/small-elements-big-impact-types-and-functions-of-ui-icons/)
+  </details>
 
-- *Grid System*
+ <details><summary>Typography</summary>
+
+   - [Typography in UI Design](https://www.shopify.com/partners/blog/typography)
+   - [How To Use Typography In UI Design](https://careerfoundry.com/en/blog/ui-design/typography-ui-design/)
+   - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
+   </details>
+
+   <details><summary>Alignment</summary>
+
+   - [Principles of UI design: Alignment](https://uxdesign.cc/principles-of-ui-design-alignment-dd707e983f29)
+   </details>
+   
+   <details><summary>Grid System</summary>
+     <details><summary>Articles</summary>
+       •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-
+     </details>
+     <details><summary>Videos</summary>
+       •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-
+     </details>
+   </details>
+
+- **
     - Articles      
         •  [6 Rules of Thumb For Creating Website Grids](https://elementor.com/blog/grid-design/%23:~:text=Column%20grids%20can%20have%20as,%2C%20nine%2C%20or%2012%20columns)
         

@@ -181,7 +181,8 @@ English tutorial :
     - [The ultimate guide to prototyping](https://www.justinmind.com/prototyping?ref=uxtools-challenges)
     - [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk) <br> <br>
 
-    <details><summary>### Website and Blogs</summary>
+   ### Website and Blogs
+    <details><summary></summary>
     
     - [uxcel ](https://uxcel.com/)
     - [learnux ](https://learnux.io/)

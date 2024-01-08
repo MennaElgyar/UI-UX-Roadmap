@@ -246,7 +246,7 @@ English tutorial :
     </details>
 
     .  <details><summary>Color inspiration</summary>
-         - [Color Hunt](https://colorhunt.co/)
+        - [Color Hunt](https://colorhunt.co/)
         - [Coolors](https://coolors.co/)
         - [Flat UI Colors](https://flatuicolors.com/)
         - [Colormind](http://colormind.io/)
@@ -254,8 +254,8 @@ English tutorial :
     </details>
     
        
-    .  <details><summary>##Inspiration</summary>
-          - [Behance](https://www.behance.net/)
+    .  <details><summary>Inspiration</summary>
+        - [Behance](https://www.behance.net/)
         - [Dribbble](https://dribbble.com/)
         - [mobbin](https://mobbin.design/browse/ios/apps)
         - [Awwwards](https://www.awwwards.com/)
